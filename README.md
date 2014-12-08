@@ -1,10 +1,7 @@
-DCN
+DCC
 ===
 
-DOCUMENT CONTROL NUMBER AND FILE NAMING 
-
-Alfresco Addon
-
+DOCUMENT CONTROL CODE - Alfresco Addon
 
 
 This addon allow to:
@@ -17,12 +14,12 @@ This addon allow to:
 - multiple prefix allowed to handle different companies codification
 
 
-content of the addon:
+Content of the addon:
 
-- one new aspect "Document Control Number".
+- one new aspect "Document Control Code".
 - new policy to watch the document number and the changes.
 - one page on the admin share console for the main administrative options.
-- one new type of site "Document Control Number" that have pages to allow the document control manager user to keep the track of the reservations, confirmations and minor changes to the file naming convention.
+- one new type of site "Document Control Code" that have pages to allow the document control manager user to keep the track of the reservations, confirmations and minor changes to the file naming convention.
 - one share user dashlet allow to users reserve new secuentials number.
 
-THIS ADDON IT'S ON DEVELOPING AGE, FIRST VERSION WILL BE ON FEBRUARY 15
+THIS ADDON IT'S ON DEVELOPING STAGE, FIRST VERSION WILL BE ON FEBRUARY 15
