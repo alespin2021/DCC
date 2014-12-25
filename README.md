@@ -1,7 +1,7 @@
 DCC
 ===
 
-DOCUMENT CONTROL CODE - Alfresco Addon
+DOCUMENT CODE CONTROL - Alfresco Addon
 
 
 This addon allow to:
@@ -16,10 +16,10 @@ This addon allow to:
 
 Content of the addon:
 
-- one new aspect "Document Control Code".
+- one new aspect "Document Code Control".
 - new policy to watch the document number and the changes.
 - one page on the admin share console for the main administrative options.
-- one new type of site "Document Control Code" that have pages to allow the document control manager user to keep the track of the reservations, confirmations and minor changes to the file naming convention.
+- one new type of site "Document Code Control" that have pages to allow the document control manager user to keep the track of the reservations, confirmations and minor changes to the file naming convention.
 - one share user dashlet allow to users reserve new secuentials number.
 
 THIS ADDON IT'S ON DEVELOPING STAGE, FIRST VERSION WILL BE ON FEBRUARY 15
